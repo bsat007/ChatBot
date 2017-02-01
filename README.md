@@ -1,5 +1,5 @@
 # ChatBot
-Victor- A generative ChatBot based on Sequential Neural Network and Deep Learning which can be trained on any desired dataset for specific purposes. Instead of ordinary ChatBots which are based on hard-coded responses, it can understand context and respond accordingly.
+Victor- A generative ChatBot created using sequence-to-sequence model consists of two recurrent neural networks (RNNs): an encoder that processes the input and a decoder that generates the output.It can be trained on any desired dataset for specific purposes. Instead of ordinary ChatBots which are based on hard-coded responses, it can understand context and respond accordingly.
 
 ## Description
 The fame of Deep Learning is at its epitome today. This here is a simple demonstration of what elementary level Deep Learning can achieve. Our project, Victor is a generative chatbot that works on a sequential neural network.
